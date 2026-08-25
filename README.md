@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Josias+%E2%80%94+f%C3%ADsico+en+formaci%C3%B3n%2C+c%C3%B3digo+en+construcci%C3%B3n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Josias+%E2%80%94+f%C3%ADsico+en+formaci%C3%B3n%2C+c%C3%B3digo+en+construcci%C3%B3n" alt="Typing SVG" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ Soy un "fronterizo" — me muevo entre la física, la programación, la medicina
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josiasemm&show_icons=true&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josiasemm&show_icons=true&theme=dark&cache_seconds=1800" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=josiasemm&theme=dark" />
 </p>
 
