@@ -1,7 +1,11 @@
-<h1 align="center">Hola, soy Josias 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Josias+%E2%80%94+f%C3%ADsico+en+formaci%C3%B3n%2C+c%C3%B3digo+en+construcci%C3%B3n" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/01/24/23/10/23-10-04-56_512.gif" width="150" />
+  <img src="https://cdn.pixabay.com/animation/2023/01/24/23/10/23-10-04-56_512.gif" width="350" />
 </p>
 
 <p align="center">
@@ -21,7 +25,7 @@
 
 ### 🚀 Sobre mí
 
-Soy un "fronterizo" — me muevo entre la física, la programación, la medicina y la filosofía, buscando siempre los puentes entre disciplinas. Vengo de un fondo en medicina/enfermería, lo que me dio una mirada clínica que ahora aplico a otros problemas. Actualmente estoy construyendo proyectos como **LOTANI**, un marketplace con IA para el CoderCUP, mientras doy mis primeros pasos en Python y desarrollo de software. 🇲🇽
+Soy un "fronterizo" — me muevo entre la física, la programación, la medicina y la filosofía, buscando siempre los puentes entre disciplinas. Vengo de un fondo en medicina/enfermería, lo que me dio una mirada clínica que ahora aplico a otros problemas. Actualmente doy mis primeros pasos en Python y desarrollo de software. 🇲🇽
 
 <br>
 
@@ -50,7 +54,7 @@ Soy un "fronterizo" — me muevo entre la física, la programación, la medicina
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josiasemm&show_icons=true&theme=dark" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josiasemm&show_icons=true&theme=dark" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=josiasemm&theme=dark" />
 </p>
 
@@ -64,4 +68,4 @@ Soy un "fronterizo" — me muevo entre la física, la programación, la medicina
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josiasemm/josiasemm/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/josiasemm/josiasemm/output/github-contribution-grid-snake.svg">
   </picture>
-</p>gi
+</p>
