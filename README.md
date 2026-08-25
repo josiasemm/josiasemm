@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Josias 👋</h1>
 
-<!--
-**josiasemm/josiasemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>🔭 Ingeniería Física</b> — UAM Azcapotzalco &nbsp;|&nbsp; <b>💻 Ingeniería en Software</b> — Hybridge Education
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+- 🌉 Me muevo entre la física, la programación y la filosofía — soy un "fronterizo" entre disciplinas
+- 🧠 Vengo de un fondo en medicina/enfermería, así que también aplico esa mirada clínica a otros problemas
+- 🐍 Aprendiendo Python y dando mis primeros pasos en desarrollo de software
+- 🛠️ Actualmente construyendo proyectos como LOTANI (marketplace con IA para el CoderCUP)
+- 🇲🇽 Desde México
+
+<hr>
+
+### 🧰 Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+<hr>
+
+### 📊 Estadísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josiasemm&show_icons=true&theme=dark" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=josiasemm&theme=dark" />
+</p>
