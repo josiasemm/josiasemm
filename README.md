@@ -1,25 +1,48 @@
 <h1 align="center">Hola, soy Josias 👋</h1>
 
 <p align="center">
+  <img src="https://cdn.pixabay.com/animation/2023/01/24/23/10/23-10-04-56_512.gif" width="150" />
+</p>
+
+<p align="center">
   <b>🔭 Ingeniería Física</b> — UAM Azcapotzalco &nbsp;|&nbsp; <b>💻 Ingeniería en Software</b> — Hybridge Education
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josiasemm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/josiasemm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <hr>
 
 ### 🚀 Sobre mí
 
-- 🌉 Me muevo entre la física, la programación y la filosofía — soy un "fronterizo" entre disciplinas
-- 🧠 Vengo de un fondo en medicina/enfermería, así que también aplico esa mirada clínica a otros problemas
-- 🐍 Aprendiendo Python y dando mis primeros pasos en desarrollo de software
-- 🛠️ Actualmente construyendo proyectos como LOTANI (marketplace con IA para el CoderCUP)
-- 🇲🇽 Desde México
+Soy un "fronterizo" — me muevo entre la física, la programación, la medicina y la filosofía, buscando siempre los puentes entre disciplinas. Vengo de un fondo en medicina/enfermería, lo que me dio una mirada clínica que ahora aplico a otros problemas. Actualmente estoy construyendo proyectos como **LOTANI**, un marketplace con IA para el CoderCUP, mientras doy mis primeros pasos en Python y desarrollo de software. 🇲🇽
+
+<br>
+
+| | |
+|---|---|
+| 🔭 **Trabajando en** | Mi transición de medicina a física |
+| 🌱 **Aprendiendo** | Python y desarrollo de software |
+| 🤝 **Busco colaborar en** | Proyectos que combinen datos/IA con problemas reales |
+| 🙌 **Busco ayuda con** | Mejores prácticas en desarrollo de software |
+| 💬 **Pregúntame sobre** | Física, medicina, o cómo sobrevivir cambiando de carrera |
+| ⚡ **Dato curioso** | Vengo de medicina, ahora estudio física — cambié de salvar vidas a estudiar el universo 😄 |
 
 <hr>
 
 ### 🧰 Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,figma,git,github,vscode" />
+</p>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=davinci" />
 </p>
 
 <hr>
