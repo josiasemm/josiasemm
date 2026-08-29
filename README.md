@@ -2,14 +2,14 @@
   <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862" width="100%" />
 </p>
 
-<h1 align="center">Hola, soy Josias 👋 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="40"/></h1>
+<h1 align="center">Hola, soy Josias <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="40"/></h1>
 
 <p align="center">
   <b>🔭 Ingeniería Física</b> — UAM Azcapotzalco &nbsp;|&nbsp; <b>💻 Ingeniería en Software</b> — Hybridge Education
 </p>
 
 <p align="center">
-  📍 México
+  🇲🇽 México
 </p>
 
 <p align="center">
@@ -22,7 +22,9 @@
   </a>
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
 ## ⌁ Stack
 
@@ -34,10 +36,14 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 </p>
 
-## ⌁ Sobre mí 🚀
+## ⌁ Sobre mí <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30"/>
+
+<table>
+<tr>
+<td width="60%" valign="middle">
 
 > Me ha interesado la física y el cosmos desde niño 🌌, y es de los pocos intereses que no se me ha ido con el tiempo, por eso terminé estudiando Ingeniería Física en la UAM Azcapotzalco.
 >
@@ -45,15 +51,26 @@
 >
 > Fuera de eso toco guitarra y piano 🎸🎹, y tengo una tortuga caimán que se llama Leviatán. 🐢
 
-<hr>
+</td>
+<td width="40%" align="center" valign="middle">
 
-## ⌁ Proyectos 💡
+<img src="https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
+
+## ⌁ Proyectos <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="30"/>
 
 <br>
 
 **LOTANI**
 <br>
-<sub>Carnet digital para mascotas exóticas — salud, vacunas y trazabilidad legal, asistido por IA. Construido para el concurso CoderCUP.</sub>
+Carnet digital para mascotas exóticas — salud, vacunas y trazabilidad legal, asistido por IA. Construido para el concurso CoderCUP.
 
 <br>
 
@@ -72,7 +89,9 @@
 
 <br>
 
-<hr>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
 ## ⌁ Contribuciones 🐍
 
@@ -85,6 +104,10 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%"/>
+</p>
 
 <div align="center">
 <sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
