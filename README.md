@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif" width="100%" />
+  <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862" width="100%" />
 </p>
 
 <h1 align="center">Hola, soy Josias 👋 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="40"/></h1>
