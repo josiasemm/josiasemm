@@ -1,49 +1,38 @@
-<table>
-<tr>
-<td width="45%" align="center" valign="middle">
+<h1 align="center">Hola, soy Josias 👋</h1>
 
 <br>
 
-<img src="./Images/Nauyaca.png" width="90%" />
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+
+<img src="./Images/Nauyaca.png" width="100%" />
 
 <br><br>
 
 <sub><i>Cada piel que la serpiente abandona es una muerte pequeña,<br>y de esa muerte nace lo que aún no tiene nombre.<br>Entre lo que fue y lo que será, solo queda el vacío,<br>porque no hay renacer sin antes desaparecer.</i></sub>
 
 </td>
-<td width="55%" valign="top">
+<td width="45%" valign="middle">
 
-# JOSIAS
+<div align="center">
 
-<sub>**ING. FÍSICA** · UAM AZCAPOTZALCO　─　**SOFTWARE ENGINEERING** · HYBRIDGE EDUCATION</sub>
+## Josias 🐍
 
-📍 &nbsp;México
+**Ing. Física** · UAM Azcapotzalco
 
-<br>
-
-*Me interesa moverme entre disciplinas más que quedarme en un solo carril.*
+**Software Engineering** · Hybridge Education
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiasemm)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josiasemm)
+📍 México &nbsp;|&nbsp; 🔭 Física &nbsp;|&nbsp; 💻 Código
 
 <br>
 
-### ⌁ &nbsp;Stack
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiasemm)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/josiasemm)
 
-<img src="https://skillicons.dev/icons?i=html,css,python,figma,git,github,vscode" />
-
-<br>
-<br>
-
-### ⌁ &nbsp;Sobre mí
-
-> Me ha interesado la física y el cosmos desde niño, y es de los pocos intereses que no se me ha ido con el tiempo, por eso terminé estudiando Ingeniería Física en la UAM Azcapotzalco.
->
-> Una meta a futuro es hacer una estancia en el CERN.
->
-> Fuera de eso toco guitarra y piano, y tengo una tortuga caimán que se llama Leviatán. 🐢🎸
+</div>
 
 </td>
 </tr>
@@ -51,7 +40,25 @@
 
 <br>
 
-## ⌁ &nbsp;Proyectos
+## ⌁ Stack 🛠️
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,python,figma,git,github,vscode" />
+</p>
+
+<br>
+
+## ⌁ Sobre mí 🚀
+
+> Me ha interesado la física y el cosmos desde niño 🌌, y es de los pocos intereses que no se me ha ido con el tiempo, por eso terminé estudiando Ingeniería Física en la UAM Azcapotzalco.
+>
+> Una meta a futuro es hacer una estancia en el **CERN**. ⚛️
+>
+> Fuera de eso toco guitarra y piano 🎸🎹, y tengo una tortuga caimán que se llama Leviatán. 🐢
+
+<br>
+
+## ⌁ Proyectos 💡
 
 <br>
 
