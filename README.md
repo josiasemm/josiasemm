@@ -1,71 +1,65 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Josias+%E2%80%94+f%C3%ADsico+en+formaci%C3%B3n%2C+c%C3%B3digo+en+construcci%C3%B3n" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/01/24/23/10/23-10-04-56_512.gif" width="350" />
-</p>
-
-<p align="center">
-  <b>🔭 Ingeniería Física</b> — UAM Azcapotzalco &nbsp;|&nbsp; <b>💻 Ingeniería en Software</b> — Hybridge Education
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/josiasemm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/josiasemm" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<hr>
-
-### 🚀 Sobre mí
-
-Soy un "fronterizo" — me muevo entre la física, la programación, la medicina y la filosofía, buscando siempre los puentes entre disciplinas. Vengo de un fondo en medicina/enfermería, lo que me dio una mirada clínica que ahora aplico a otros problemas. Actualmente doy mis primeros pasos en Python y desarrollo de software. 🇲🇽
+<img src="./Images/Nauyaca.png" width="180" />
 
 <br>
 
-| | |
-|---|---|
-| 🔭 **Trabajando en** | Mi transición de medicina a física |
-| 🌱 **Aprendiendo** | Python y desarrollo de software |
-| 🤝 **Busco colaborar en** | Proyectos que combinen datos/IA con problemas reales |
-| 🙌 **Busco ayuda con** | Mejores prácticas en desarrollo de software |
-| 💬 **Pregúntame sobre** | Física, medicina, o cómo sobrevivir cambiando de carrera |
-| ⚡ **Dato curioso** | Vengo de medicina, ahora estudio física — cambié de salvar vidas a estudiar el universo 😄 |
+# JOSIAS
 
-<hr>
+<sub>**ING. FÍSICA** · UAM AZCAPOTZALCO　─　**SOFTWARE ENGINEERING** · HYBRIDGE EDUCATION</sub>
 
-### 🧰 Stack
+📍 México
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,python,figma,git,github,vscode" />
+*Me interesa moverme entre disciplinas más que quedarme en un solo carril.*
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiasemm)
+
+</div>
+
+<br>
+
+## ⌁ Proyectos
+
+<br>
+
+**LOTANI**
+<br>
+<sub>Carnet digital para mascotas exóticas — salud, vacunas y trazabilidad legal, asistido por IA. Construido para el concurso CoderCUP.</sub>
+
+<br>
+
+<img src="./Images/Inicio.png" width="100%" />
+
+<br>
+
+<p float="left">
+  <img src="./Images/Carnet.png" width="49%" />
+  <img src="./Images/Santuario.png" width="49%" />
 </p>
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=davinci" />
-</p>
 
-<hr>
+<br>
 
-### 📊 Estadísticas
+`→` [**Ver demo en vivo**](https://lotani.vercel.app/)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josiasemm&show_icons=true&theme=dark&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=josiasemm&theme=dark" />
-</p>
+<br>
 
-<hr>
+## ⌁ Stack
 
-### 🐍 Contribuciones
+<br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josiasemm/josiasemm/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josiasemm/josiasemm/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/josiasemm/josiasemm/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,python,figma,git,github,vscode" />
+
+<br>
+<br>
+
+## ⌁ Sobre mí
+
+<br>
+
+> Me ha interesado la física y el cosmos desde niño, y es de los pocos intereses que no se me ha ido con el tiempo, por eso terminé estudiando Ingeniería Física en la UAM Azcapotzalco. Una meta a futuro es hacer una estancia en el CERN. Fuera de eso toco guitarra y piano, y tengo una tortuga caimán que se llama Leviatán. 🐢🎸
+
+<br>
+
+<div align="center">
+<sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
+</div>
